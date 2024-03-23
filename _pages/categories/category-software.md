@@ -1,5 +1,5 @@
 ---
-title: "software"
+title: "Software"
 layout: category
 permalink: /categories/software/
 author_profile: true

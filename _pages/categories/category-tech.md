@@ -1,5 +1,5 @@
 ---
-title: "tech"
+title: "Tech"
 layout: category
 permalink: /categories/tech/
 author_profile: true
