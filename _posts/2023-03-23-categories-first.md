@@ -3,11 +3,11 @@
 excerpt: "목표는 주 2회 이상의 포스팅입니다. "
 
 categories:
-  - Categories1
+  - Software
 tags:
   - [test, hello]
 
-permalink: /categories1/first/
+permalink: /software/first/
 
 toc: true
 toc_sticky: true
