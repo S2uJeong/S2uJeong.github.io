@@ -1,9 +1,10 @@
 ---
-title: "software"
+title: "algorithm"
 layout: category
-permalink: /categories/software/
+permalink: /categories/algorithm/
 author_profile: true
-taxonomy: Software
+taxonomy: Algorithm
 sidebar:
   nav: "categories"
 ---
+

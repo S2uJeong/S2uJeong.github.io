@@ -1,9 +1,9 @@
 ---
-title: "software"
+title: "tech"
 layout: category
-permalink: /categories/software/
+permalink: /categories/tech/
 author_profile: true
-taxonomy: Software
+taxonomy: Tech
 sidebar:
   nav: "categories"
 ---
