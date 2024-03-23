@@ -1,8 +1,8 @@
 ---
-title: "Hi all! I'm OOOOOO👋🏻"
+title: "최수정"
 permalink: /about/
 layout: single
 comments: false
 ---
 
-본인 소개 여기에 입력
+안녕하세요! 개발자 최수정입니다.
